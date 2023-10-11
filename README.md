@@ -1,2 +1,3 @@
 # mahesh-codes
-Mahesh - First Github
+Mahesh - First Github project
+Author - Mahesh Lahoti 
